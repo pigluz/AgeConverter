@@ -1,0 +1,15 @@
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\bin\Debug\net7.0\AgeConverter.exe
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\bin\Debug\net7.0\AgeConverter.deps.json
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\bin\Debug\net7.0\AgeConverter.runtimeconfig.json
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\bin\Debug\net7.0\AgeConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\bin\Debug\net7.0\AgeConverter.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.csproj.AssemblyReference.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.AssemblyInfoInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.AssemblyInfo.cs
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.csproj.CoreCompileInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\refint\AgeConverter.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\AgeConverter.genruntimeconfig.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\AgeConverter\AgeConverter\obj\Debug\net7.0\ref\AgeConverter.dll
